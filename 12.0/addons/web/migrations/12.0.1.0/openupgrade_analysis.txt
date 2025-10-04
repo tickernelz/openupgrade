@@ -1,0 +1,49 @@
+---Models in module 'web'---
+obsolete model web.planner
+new model report.layout
+---Fields in module 'web'---
+web          / report.layout            / image (char)                  : NEW
+web          / report.layout            / pdf (char)                    : NEW
+web          / report.layout            / view_id (many2one)            : NEW relation: ir.ui.view, required
+web_planner  / web.planner              / active (boolean)              : DEL
+web_planner  / web.planner              / data (text)                   : DEL
+web_planner  / web.planner              / menu_id (many2one)            : DEL relation: ir.ui.menu, required
+web_planner  / web.planner              / name (char)                   : DEL required
+web_planner  / web.planner              / planner_application (selection): DEL required, selection_keys: function
+web_planner  / web.planner              / progress (integer)            : DEL
+web_planner  / web.planner              / tooltip_planner (html)        : DEL
+web_planner  / web.planner              / view_id (many2one)            : DEL relation: ir.ui.view, required
+---XML records in module 'web'---
+DEL ir.actions.act_window: web_planner.web_planner_action
+NEW ir.model.access: web.access_report_layout
+DEL ir.model.access: web_planner.access_planner_emp
+DEL ir.model.access: web_planner.access_planner_manager
+DEL ir.model.access: web_planner.access_planner_portal
+DEL ir.rule: web_planner.planner_rule_all
+DEL ir.rule: web_planner.web_planner_rule_portal
+DEL ir.ui.menu: web_planner.web_planner_menu
+NEW ir.ui.view: web._assets_backend_helpers
+NEW ir.ui.view: web._assets_bootstrap
+NEW ir.ui.view: web._assets_frontend_helpers
+NEW ir.ui.view: web._assets_helpers
+NEW ir.ui.view: web._assets_primary_variables
+NEW ir.ui.view: web._assets_secondary_variables
+NEW ir.ui.view: web._assets_utils
+NEW ir.ui.view: web.address_layout
+DEL ir.ui.view: web.less_helpers
+DEL ir.ui.view: web.menu
+DEL ir.ui.view: web.menu_link
+DEL ir.ui.view: web.menu_secondary
+DEL ir.ui.view: web.menu_secondary_submenu
+DEL ir.ui.view: web_planner.assets_backend
+DEL ir.ui.view: web_planner.assets_common
+DEL ir.ui.view: web_planner.category
+DEL ir.ui.view: web_planner.page
+DEL ir.ui.view: web_planner.pages
+DEL ir.ui.view: web_planner.web_planner_view_search
+DEL ir.ui.view: web_planner.web_planner_view_tree
+NEW report.layout: web.report_layout_background
+NEW report.layout: web.report_layout_boxed
+NEW report.layout: web.report_layout_clean
+NEW report.layout: web.report_layout_standard
+NEW res.company: base.main_company [potentially moved from project module] (noupdate)

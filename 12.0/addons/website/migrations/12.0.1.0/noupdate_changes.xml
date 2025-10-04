@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+  <record id="default_website" model="website">
+    <field name="domain"/>
+  </record>
+  <record id="s_text_image_default_image" model="ir.attachment">
+    <field name="datas_fname">s_text_image_default_image.jpg</field>
+    <field name="url">/website/static/src/img/snippets_demo/s_text_image.jpg</field>
+  </record>
+  <record id="main_menu" model="website.menu">
+    <field name="website_id"/>
+    <field name="name">Default Main Menu</field>
+    <field name="url">/default-main-menu</field>
+  </record>
+  <record id="s_banner_default_image" model="ir.attachment">
+    <field name="datas_fname">s_banner_default_image.jpg</field>
+    <field name="url">/website/static/src/img/snippets_demo/s_banner.jpg</field>
+    <field name="name">Banner Snippet - Default Image</field>
+  </record>
+  <record id="s_image_text_default_image" model="ir.attachment">
+    <field name="datas_fname">s_image_text_default_image.jpg</field>
+    <field name="url">/website/static/src/img/snippets_demo/s_image_text.jpg</field>
+  </record>
+  <record id="s_cover_default_image" model="ir.attachment">
+    <field name="url">/website/static/src/img/snippets_demo/s_cover.jpg</field>
+  </record>
+  <record id="menu_contactus" model="website.menu">
+    <field name="website_id"/>
+    <field name="page_id"/>
+  </record>
+</odoo>

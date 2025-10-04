@@ -1,0 +1,5 @@
+---Models in module 'website_survey'---
+---Fields in module 'website_survey'---
+---XML records in module 'website_survey'---
+NEW ir.ui.view: website_survey.assets_frontend
+NEW ir.ui.view: website_survey.survey_login_layout

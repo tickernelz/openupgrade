@@ -1,0 +1,162 @@
+---Models in module 'l10n_cn_small_business'---
+---Fields in module 'l10n_cn_small_business'---
+---XML records in module 'l10n_cn_small_business'---
+DEL account.account.tag: l10n_cn_small_business.tax_tag1 (noupdate)
+DEL account.account.tag: l10n_cn_small_business.tax_tag2 (noupdate)
+DEL account.account.tag: l10n_cn_small_business.tax_tag3 (noupdate)
+DEL account.account.tag: l10n_cn_small_business.tax_tag4 (noupdate)
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1012
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1101
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1121
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1122
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1123
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1131
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1132
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1221
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1231
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1401
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1402
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1403
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1404
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1405
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1406
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1407
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1408
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1471
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1501
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1502
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1503
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1511
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1512
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1521
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1531
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1601
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1602
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1603
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1604
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1605
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1606
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1701
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1702
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1703
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1711
+NEW account.account.template: l10n_cn_small_business.l10n_cn_1801
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2001
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2201
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2202
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2203
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2211
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2221
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2231
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2241
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2501
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2502
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2701
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2711
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2801
+NEW account.account.template: l10n_cn_small_business.l10n_cn_2901
+NEW account.account.template: l10n_cn_small_business.l10n_cn_4001
+NEW account.account.template: l10n_cn_small_business.l10n_cn_4002
+NEW account.account.template: l10n_cn_small_business.l10n_cn_4003
+NEW account.account.template: l10n_cn_small_business.l10n_cn_4101
+NEW account.account.template: l10n_cn_small_business.l10n_cn_4103
+NEW account.account.template: l10n_cn_small_business.l10n_cn_4104
+NEW account.account.template: l10n_cn_small_business.l10n_cn_5001
+NEW account.account.template: l10n_cn_small_business.l10n_cn_5101
+NEW account.account.template: l10n_cn_small_business.l10n_cn_5201
+NEW account.account.template: l10n_cn_small_business.l10n_cn_5301
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6001
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6051
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6101
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6111
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6301
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6401
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6402
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6403
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6601
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6602
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6603
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6701
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6711
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6801
+NEW account.account.template: l10n_cn_small_business.l10n_cn_6901
+DEL account.account.template: l10n_cn_small_business.small_business_chart1012 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1101 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1121 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1122 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1123 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1131 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1132 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1221 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1401 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1402 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1403 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1404 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1405 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1407 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1408 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1411 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1421 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1501 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1511 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1601 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1602 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1604 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1605 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1606 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1621 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1701 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1702 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1801 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart1901 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2001 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2201 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2202 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2203 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2211 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2221 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2231 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2232 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2241 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2401 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2501 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart2701 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart3001 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart3002 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart3101 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart3103 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart3104 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart4001 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart4101 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart4301 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart4401 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart4403 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5001 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5051 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5111 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5301 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5401 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5402 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5403 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5601 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5602 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5603 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5711 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5712 (noupdate)
+DEL account.account.template: l10n_cn_small_business.small_business_chart5801 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_purchase_excluded_11 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_purchase_excluded_17 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_purchase_excluded_3 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_purchase_excluded_6 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_excluded_11 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_excluded_17 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_excluded_3 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_excluded_6 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_included_11 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_included_17 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_included_3 (noupdate)
+NEW account.tax.template: l10n_cn_small_business.l10n_cn_small_business_sales_included_6 (noupdate)
+DEL account.tax.template: l10n_cn_small_business.vatp_small_business (noupdate)
+DEL account.tax.template: l10n_cn_small_business.vatp_small_business_16 (noupdate)
+DEL account.tax.template: l10n_cn_small_business.vats_small_business (noupdate)
+DEL account.tax.template: l10n_cn_small_business.vats_small_business_16 (noupdate)

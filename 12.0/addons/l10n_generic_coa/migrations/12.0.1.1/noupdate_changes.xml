@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+<!--  Handled in postmigration of 'account' module:
+  <record id="configurable_chart_template" model="account.chart.template">
+    <field name="transfer_account_id"/>
+    <field name="transfer_account_code_prefix">1017</field>
+  </record>-->
+</odoo>
