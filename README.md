@@ -2,6 +2,7 @@
 [![Pre-commit Status](https://github.com/OCA/OpenUpgrade/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/OCA/OpenUpgrade/actions/workflows/pre-commit.yml?query=branch%3A18.0)
 [![Build Status](https://github.com/OCA/OpenUpgrade/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/OCA/OpenUpgrade/actions/workflows/test.yml?query=branch%3A18.0)
 [![codecov](https://codecov.io/gh/OCA/OpenUpgrade/branch/18.0/graph/badge.svg)](https://codecov.io/gh/OCA/OpenUpgrade)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tickernelz/openupgrade)
 
 <!-- /!\ do not modify above this line -->
 
